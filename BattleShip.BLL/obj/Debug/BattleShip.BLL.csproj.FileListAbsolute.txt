@@ -1,0 +1,6 @@
+C:\Users\Pramo\Desktop\projects\classroom-work-PRamos1196\Milestone_Assessment_2\Battleship2019\BattleShip.BLL\bin\Debug\BattleShip.BLL.dll
+C:\Users\Pramo\Desktop\projects\classroom-work-PRamos1196\Milestone_Assessment_2\Battleship2019\BattleShip.BLL\bin\Debug\BattleShip.BLL.pdb
+C:\Users\Pramo\Desktop\projects\classroom-work-PRamos1196\Milestone_Assessment_2\Battleship2019\BattleShip.BLL\obj\Debug\BattleShip.BLL.csproj.AssemblyReference.cache
+C:\Users\Pramo\Desktop\projects\classroom-work-PRamos1196\Milestone_Assessment_2\Battleship2019\BattleShip.BLL\obj\Debug\BattleShip.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Pramo\Desktop\projects\classroom-work-PRamos1196\Milestone_Assessment_2\Battleship2019\BattleShip.BLL\obj\Debug\BattleShip.BLL.dll
+C:\Users\Pramo\Desktop\projects\classroom-work-PRamos1196\Milestone_Assessment_2\Battleship2019\BattleShip.BLL\obj\Debug\BattleShip.BLL.pdb

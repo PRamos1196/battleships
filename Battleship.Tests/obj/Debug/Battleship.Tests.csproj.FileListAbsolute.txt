@@ -1,0 +1,12 @@
+C:\Users\Pramo\Desktop\projects\classroom-work-PRamos1196\Milestone_Assessment_2\Battleship2019\Battleship.Tests\bin\Debug\Battleship.Tests.dll
+C:\Users\Pramo\Desktop\projects\classroom-work-PRamos1196\Milestone_Assessment_2\Battleship2019\Battleship.Tests\bin\Debug\Battleship.Tests.pdb
+C:\Users\Pramo\Desktop\projects\classroom-work-PRamos1196\Milestone_Assessment_2\Battleship2019\Battleship.Tests\bin\Debug\BattleShip.BLL.dll
+C:\Users\Pramo\Desktop\projects\classroom-work-PRamos1196\Milestone_Assessment_2\Battleship2019\Battleship.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Pramo\Desktop\projects\classroom-work-PRamos1196\Milestone_Assessment_2\Battleship2019\Battleship.Tests\bin\Debug\BattleShip.BLL.pdb
+C:\Users\Pramo\Desktop\projects\classroom-work-PRamos1196\Milestone_Assessment_2\Battleship2019\Battleship.Tests\bin\Debug\nunit.framework.pdb
+C:\Users\Pramo\Desktop\projects\classroom-work-PRamos1196\Milestone_Assessment_2\Battleship2019\Battleship.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Pramo\Desktop\projects\classroom-work-PRamos1196\Milestone_Assessment_2\Battleship2019\Battleship.Tests\obj\Debug\Battleship.Tests.csproj.AssemblyReference.cache
+C:\Users\Pramo\Desktop\projects\classroom-work-PRamos1196\Milestone_Assessment_2\Battleship2019\Battleship.Tests\obj\Debug\Battleship.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Pramo\Desktop\projects\classroom-work-PRamos1196\Milestone_Assessment_2\Battleship2019\Battleship.Tests\obj\Debug\Battleship.Tests.csproj.CopyComplete
+C:\Users\Pramo\Desktop\projects\classroom-work-PRamos1196\Milestone_Assessment_2\Battleship2019\Battleship.Tests\obj\Debug\Battleship.Tests.dll
+C:\Users\Pramo\Desktop\projects\classroom-work-PRamos1196\Milestone_Assessment_2\Battleship2019\Battleship.Tests\obj\Debug\Battleship.Tests.pdb
